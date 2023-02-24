@@ -1,16 +1,10 @@
 ### Hi there 👋
+### My name is Adam Żyliński
 
-<!--
-**adamowski137/adamowski137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamowski137)](https://github.com/anuraghazra/github-readme-stats)
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=adamowski137&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=adamowski137&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=adamowski137&show_icons=true" />
-</picture>
+#### I'm a computer science student at Warsaw University of Technology and a software engineering enthusiast.
+
+Full of ideas so the repositories are quiet random.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamowski137&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamowski137&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
