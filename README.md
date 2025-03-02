@@ -54,7 +54,7 @@
 
 ## My links:
 <div align="center">
-    <a href="https://www.linkedin.com/in/adam-żyliński-200993266/" target="_blank">
+    <a href="https://www.linkedin.com/in/adam-zylinski/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0e49a1&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
     </a>
 </div>
@@ -63,7 +63,6 @@
 
 <div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamowski137&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![Overview](https://github-readme-stats.vercel.app/api?username=adamowski137)](https://github.com/adamowski137/github-readme-stats)  
 
 </div>
 
