@@ -62,7 +62,13 @@
 ## Some stats:
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamowski137&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+<a href="https://github.com/adamowski137/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adamowski137&rank_icon=github" />
+</a>
+<a href="https://github.com/adamowski137/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamowski137&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 </div>
 
